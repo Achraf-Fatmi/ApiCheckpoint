@@ -1,0 +1,20 @@
+.UserContainer{
+    margin-left: 10%;
+    margin-right: 10% ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.UserCard{
+    font-style: oblique;
+    background-color:goldenrod;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    border: solid 1px;
+    border-radius: 10px;
+    align-items: center;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: rgb(51, 50, 50) 1px 1px 1px 1px;
+}
